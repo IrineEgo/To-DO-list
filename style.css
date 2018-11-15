@@ -1,0 +1,111 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  width: 80%;
+  margin: 0 auto 50px;
+}
+
+h3 {
+  color: maroon;
+  text-align: center;
+}
+
+input {
+  margin: 0 5px;
+  color: gray;
+  width: 200px;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+
+fieldset {
+  margin: 40px auto 20px;
+  width: 30%;
+  background-color: whitesmoke;
+}
+
+legend {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 20px 10px;
+}
+
+label {
+  margin: 10px;
+}
+
+.title {
+  width: 100%;
+  margin: 0;
+  background-color: #778899;
+  color: white;
+  line-height: 75px;
+  text-align: center;
+}
+
+.logout {
+  width: 400px;
+  margin: 50px auto;
+  display: inline-block;
+  background-color: #778899;
+  line-height: 75px;
+  text-align: center;
+  font-weight: 600;
+  color: white;
+  border-radius: 10px;
+}
+
+form {
+  display: inline-block;
+  margin-bottom: 1rem;
+  padding: 10px 20px;
+}
+
+.table-index {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+th {
+  background: #778899;
+  color: white;
+  border: 1px solid white;
+  padding: 0 5px;	
+}
+
+td {
+  padding: 0 5px;
+  border: 1px solid #778899;
+}
+
+.enter {
+  margin: 30px 20px 10px 10px;
+  width: 120px;
+  height: 30px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  text-decoration: none;
+  color: #FF8C00;
+}
+
+.wrap {
+  text-align: right;
+}
+
+.assign {
+  margin: 5px;
+  width: 120px;
+}
