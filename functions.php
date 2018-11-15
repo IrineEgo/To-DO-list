@@ -13,7 +13,6 @@
     }
     function getSalt() {
         return 'S76Mwq2ZwWQXo8sri';
-        //return 'Hk532falc0e84GjdF';
     }
     function getHashPassword($password) {
         return md5($password . getSalt());
